@@ -1,0 +1,12 @@
+id,nombre,precio,categoria,stock,created_at
+2,Mouse Logitech,450.0,Electronica,30,2026-06-02T13:55:34.384901+00:00
+3,Teclado Redragon,1200.0,Electronica,8,2026-06-02T13:55:34.384901+00:00
+4,Monitor Samsung,3600.0,Electronica,12,2026-06-02T13:55:34.384901+00:00
+5,USB Kingston,180.0,Accesorios,50,2026-06-02T13:55:34.384901+00:00
+6,Laptop HP,13500.0,Electronica,15,2026-06-02T14:43:56.918734+00:00
+7,Mouse Logitech,450.0,Electronica,30,2026-06-02T14:43:56.918734+00:00
+8,Teclado Redragon,1200.0,Electronica,8,2026-06-02T14:43:56.918734+00:00
+9,Monitor Samsung,3600.0,Electronica,12,2026-06-02T14:43:56.918734+00:00
+10,USB Kingston,180.0,Accesorios,50,2026-06-02T14:43:56.918734+00:00
+11,Laptop Gamer X500,15749.99,Electronica,20,2026-06-02T14:45:25.059581+00:00
+1,Laptop X500 Ed. Especial,19999.0,Electronica,5,2026-06-02T13:55:34.384901+00:00
